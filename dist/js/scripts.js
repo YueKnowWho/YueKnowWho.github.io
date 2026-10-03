@@ -1,6 +1,6 @@
 /*!
 * Start Bootstrap - The Big Picture v5.0.6 (https://startbootstrap.com/template/the-big-picture)
-* Copyright 2013-2023 Start Bootstrap
+* Copyright 2013-2026 Start Bootstrap
 * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-the-big-picture/blob/master/LICENSE)
 */
 // This file is intentionally blank
